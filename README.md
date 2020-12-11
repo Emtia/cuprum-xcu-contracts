@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/Emtia/cuprum-xcu-contracts/master/assets/xcu-300.png)](https://emtia.network "Emtia | Crypto Commodity Network")
+
 # CUPRUM (XCU)
 Cuprum (XCU), değeri bir pound (lb) Bakır'a endekslenmiş, Ethereum tabanlı, ERC20 Standartlarında bir Token Kontratıdır. Temel yapısı ve transfer protokolü, Ethereum blokzinciri içerisindeki Akıllı Kontrat (Smart Contract) protokolüne göre oluşturulmuştur. Ve Ethereum tabanlı cüzdanlarda saklanır.
 
